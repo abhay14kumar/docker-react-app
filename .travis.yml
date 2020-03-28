@@ -10,6 +10,7 @@ script:
   - docker run -e CI=true abhay14kumar/docker-react-app npm run test -- --coverage
 
 deploy:
+  edge: true
   provider: elasticbeanstalk
   region: "us-east-2"
   app: "docker-react"
