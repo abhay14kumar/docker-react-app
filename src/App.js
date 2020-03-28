@@ -8,6 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+           its hectic ohh it's not..(But hope for the best) to get the changes from local to the the docker container, welcome to the docker world
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
