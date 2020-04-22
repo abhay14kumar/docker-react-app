@@ -1,9 +1,14 @@
 #Feature
+<<<<<<< HEAD
 ##Feature-1
 =======
 =======
 #test
 #Test-2:
+=======
+=======
+#test
+>>>>>>> 5f046e41fbb87137398a869a7d3d51f193b4a445
 FROM node:alpine as builder
 WORKDIR '/app'
 COPY package*.json ./
