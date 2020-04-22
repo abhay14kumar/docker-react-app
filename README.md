@@ -4,7 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ##Added in master
 two more
 In the project directory, you can run:
+<<<<<<< HEAD
 #Added the test branch
+=======
+
+#added the feature Branch
+
+>>>>>>> e7b3bc4354874a366ee7e4d72a766a1db075c085
 ### `npm start`
 
 Runs the app in the development mode.<br />
